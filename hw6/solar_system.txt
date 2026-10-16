@@ -1,0 +1,2 @@
+Star 15 yellow 1.989e30 0 0 0 0
+Planet 6 blue 5.972e24 1.496e11 0 0 24000
